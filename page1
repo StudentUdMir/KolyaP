@@ -1,0 +1,43 @@
+
+ <html>
+<head>
+        <title>Моя страница</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <img src="https://www.gazeta.uz/media/img/2022/04/42RboP16488178728121_l.jpg" width="70px"/>
+            <nav>
+                <a href="">Назад</a>
+                <a href="">Про звезды</a>
+            </nav>
+        </header>
+        <main>
+            <h1>Про солнце</h1>
+             <p>Наше солнце родилось 5 миллиардов лет назад.</p>
+             
+            
+        <img class="sun" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPIZqI5ss4cnk9I7BPrlgb2lg_nrpQIsP2Q&s"/>
+        <img class="sun" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvbTBeoOBaVgJmvGlp_wsKk_BqMfFJkdxruQ&s"/>
+        <img class="sun" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNpKr8z7AWZ509hLdQ3n3oEQE7XFQ88s_wcA&s"/>
+        <p>Тогда в нашей системе было более 100 планет и они врезались, сгорали,
+            вылетали из системы.</p>
+            <p>Но вскоре все успокоилось...
+                Осталось лишь 9 больших планет</p>
+                <ul>
+                    <li>Меркурий</li>
+                    <li>Венера</li>
+                    <li>Земля</li>
+                    <li>Марс</li>
+                    <li>Юпитер</li>
+                    <li>Сатурн</li>
+                    <li>Уран</li>
+                    <li>Нептун</li>
+                </ul>
+                <p>Солнце развивалось, расло, и теперь оно такое, каким мы видим его сейчас...Вкоре оно станет красным гигантом. вырастет в тысячу раз и поглотит все планеты до Юпитера.Затем оно станет маленьким, как земля.Это будет тусклый, очень тяжелый белый карлик. Оно будет терять массу и , вскоре, совсем исчезнет.Планеты не будут просто кружиться. Когда гравитация пропадет они разлетятся и будут блуждать пока не найдут новую систему...</p>
+        </main>
+        <footer>
+            <p>Создатель-Коля Пашов</p>
+        </footer>
+    </body>
+</html>
