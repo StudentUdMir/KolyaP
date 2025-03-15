@@ -96,3 +96,23 @@ main img {
     width: 180px;
     height: 180px;
 }
+
+p {
+    color: orange;
+
+}
+main img {
+    border-radius: 40px;
+    width: 180px;
+    height: 180px;
+}
+.sun{
+    width: 250px;
+    height: 180px;
+}
+
+ul {
+background-color:#EF930A;
+border-radius: 15px;
+}
+
