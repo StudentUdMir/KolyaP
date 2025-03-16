@@ -103,16 +103,22 @@ p {
 }
 main img {
     border-radius: 40px;
-    width: 180px;
-    height: 180px;
+    width: 360px;
+    height: 360px;
 }
 .sun{
-    width: 250px;
-    height: 180px;
+    width: 500px;
+    height: 360px;
 }
 
 ul {
 background-color:#EF930A;
 border-radius: 15px;
+}
+
+.stars {
+    border-radius:20px;
+    width:500px;
+    height:360px;
 }
 
